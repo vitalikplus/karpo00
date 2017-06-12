@@ -17,5 +17,10 @@ This web-site is developed for Ukrainian Client by team of 5 people (BA/QA + fro
 4. SEO optimization. 
 5. Graceful degradation and wider browser range support 
 
+![Image of Landing Page](https://octodex.github.com/images/yaktocat.png)
+![Image of Landing Page](https://lh3.googleusercontent.com/FbzdhdNGsny7nFVkrv0rXrV3id1IDiNwJWdHKOi5epbfI8ZuDXTWL8OYZHJINcSKSDK4bUeu6KwXa0U=w1920-h950-rw)
+Format: ![VT Alt Text](url)
+
+
 
 
